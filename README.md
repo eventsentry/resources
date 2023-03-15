@@ -1,2 +1,2 @@
-# resources
+# Resources
 Resource files
